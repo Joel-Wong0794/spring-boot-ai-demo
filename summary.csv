@@ -1,0 +1,5 @@
+- The Q3 platform migration was completed two weeks late due to issues with the payments module.
+- An undocumented connection to the old session service was found during testing, requiring a temporary fix.
+- System performance improved by 18% after the migration, with fewer errors during busy times.
+- Three engineers were reassigned from the reporting project, delaying the reporting dashboard work to next quarter.
+- The team suggests conducting a dependency audit and starting integration testing earlier for future migrations.
